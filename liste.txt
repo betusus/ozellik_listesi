@@ -1,0 +1,4 @@
+1.Email ve şifre ile giriş yapılsın.
+2.Google hesabı ile giriş yapılsın.
+3.Şifre 3 ayda bir değiştirilsin.
+4.Hem web hem mobilden giriş yapılsın.
