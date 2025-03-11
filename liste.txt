@@ -2,3 +2,4 @@
 2.Google hesabı ile giriş yapılsın.
 3.Şifre 3 ayda bir değiştirilsin.
 4.Hem web hem mobilden giriş yapılsın.
+5.Sesli ve görüntülü arama yapılsın.
