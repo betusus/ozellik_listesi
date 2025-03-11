@@ -1,5 +1,6 @@
-3.Şifre 3 ayda bir değiştirilsin.
-2.Google hesabı ile giriş yapılsın.
+
 1.Email ve şifre ile giriş yapılsın.
-4.Hem web hem mobilden giriş yapılsın.
-5.Sesli ve görüntülü arama yapılsın.
+2.Google hesabı ile giriş yapılsın.
+3.Hem web hem mobilden giriş yapılsın.
+4.Sesli ve görüntülü arama yapılsın.
+
